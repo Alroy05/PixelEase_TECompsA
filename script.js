@@ -21,7 +21,7 @@ function land() {
 
 }
 
-function all() {
+function every() {
     let land2 = document.getElementById('land2');
     let land1 = document.getElementById('land1');
     let land3 = document.getElementById('land3');
